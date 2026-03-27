@@ -121,13 +121,3 @@ I enjoy building intelligent systems and working on real-world projects that com
 
 </div>
 
----
-
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/rawanmohamed24/rawanmohamed24/blob/output/snake-dark.svg)
-
----
-
-## 🔥 Fun Fact  
-💭 Always learning, always building 🚀  
