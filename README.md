@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rawan Mohamed</h1>
-<h3 align="center">AI & Data Science Enthusiast | Machine Learning Engineer | CS Student</h3>
+<h1 align="center">Hi , I'm Rawan Mohamed</h1>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning Student | CS Student</h3>
 
 ---
 
@@ -20,12 +20,11 @@
 
 ## 🧑‍💻 About Me  
 
-I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Backend Development** 🤖  
+I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Science** 🤖  
 
-- 🔭 Currently working on: AI & Machine Learning Projects  
-- 🌱 Currently learning: Deep Learning, NLP, RAG Systems & MLOps  
-- 💼 Interested in: AI Engineering, Data Science & Backend Development  
-- 📫 Email: rawan.m.badry224@gmail.com  
+- 🔭 Building AI and Machine Learning projects  
+- 🌱 Exploring Deep Learning, NLP, and RAG Systems  
+- 💡 Interested in AI Engineering, Data Science, and Backend Development  
 
 ---
 
@@ -35,98 +34,55 @@ I’m a Computer Science student passionate about **Artificial Intelligence, Mac
 Python • C++ • Java • C# • JavaScript • SQL  
 
 ### 🤖 AI & Data Science  
-Python for Data Science • NumPy • Pandas • Matplotlib • Scikit-learn  
-Machine Learning • Deep Learning Basics • NLP • Computer Vision  
-Supervised Learning • Unsupervised Learning • Ensemble Learning  
-Clustering • Regression • Classification  
+NumPy • Pandas • Matplotlib • Scikit-learn  
+Machine Learning • Deep Learning • NLP • Computer Vision  
+Regression • Classification • Clustering • Ensemble Learning  
 
-### 📊 Data Analysis & Visualization  
+### 📊 Data Analysis  
 Power BI • Data Cleaning • Data Preprocessing • Exploratory Data Analysis (EDA)
 
-### 🧠 AI Tools & Concepts  
-RAG Systems • Vector Search • Prompt Engineering • OpenRouter API  
-Machine Learning Pipelines • Model Evaluation
+### 🧠 AI Concepts  
+RAG Systems • Large Language Models (LLMs) • Embeddings  
+Vector Search • Prompt Engineering • Model Evaluation  
 
-### 🌐 Backend & Web  
-ASP.NET MVC • Node.js • REST APIs • HTML • CSS • JavaScript
+### 🌐 Web & Backend  
+ASP.NET MVC • Node.js • REST APIs  
+HTML • CSS • JavaScript  
 
 ### 🧪 Testing  
-Selenium • Postman • API Testing • Manual Testing
+Selenium • Postman • API Testing  
 
-### ☁️ Cloud & Tools  
-Microsoft Azure • Git • GitHub • Jupyter Notebook • VS Code
-
----
-
-## 💼 Experience  
-
-### 🤖 AI & Data Science Trainee – Microsoft ML Engineer Program (DEPI)
-
-- Studied Machine Learning, Deep Learning, Computer Vision, NLP, and Azure fundamentals.
-- Built machine learning models using Python and Scikit-learn.
-- Worked on AI projects involving data preprocessing, model training, and evaluation.
-
-### 🧠 AI Intern – E Finance
-
-- Worked on AI solutions using Large Language Models (LLMs).
-- Built a Retrieval-Augmented Generation (RAG) chatbot system.
-- Learned about document processing, embeddings, and integrating AI models into applications.
-
-### 🧪 Software Testing Intern – DEPI
-
-- Performed Manual and Automation Testing using Selenium.
-- Tested APIs using Postman and documented defects.
-- Worked with software testing processes and bug reporting.
+### ☁️ Tools  
+Azure • Git • GitHub • Jupyter Notebook • VS Code  
 
 ---
 
 ## 💻 Projects  
 
-### 🤖 AI Learning Assistant (RAG System)
+### 🤖 AI Learning Assistant – RAG-based Question Answering System
 
 - Built a Retrieval-Augmented Generation system using course documents.
-- Used embeddings, vector search, and LLM APIs.
+- Implemented embeddings, vector search, and LLM API integration.
 - Developed an interactive interface using Streamlit.
+
+**Technologies:** Python, RAG, LLMs, OpenRouter API, Streamlit
 
 ### 🏥 Pharmacy Website  
 
 ASP.NET MVC system for managing pharmacy operations with full CRUD operations.
 
+**Technologies:** C#, ASP.NET MVC, SQL Server
+
 ### 🚗 Car Selling Website  
 
-Responsive frontend application using HTML, CSS, and JavaScript.
+Responsive frontend application for browsing and managing car listings.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ### 🎮 Backend Games  
 
-Connect 4 & Tic Tac Toe using C++.
+Connect 4 & Tic Tac Toe implemented using C++.
+
+**Technologies:** C++
 
 ---
-
-## 📚 Currently Learning  
-
-- Deep Learning (TensorFlow / Keras / PyTorch)
-- Natural Language Processing
-- MLOps Fundamentals
-- Advanced Machine Learning Techniques
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawanmohamed24&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rawanmohamed24&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmohamed24&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Fun Fact  
-
-💭 Always learning, always building 🚀
