@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawan Mohamed</h1>
-<h3 align="center">AI & ML Enthusiast | Backend Developer | CS Student</h3>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning Engineer | CS Student</h3>
 
 ---
 
@@ -20,11 +20,11 @@
 
 ## 🧑‍💻 About Me  
 
-I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Science** 🤖  
+I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Backend Development** 🤖  
 
-- 🔭 Currently working on: AI & Backend Projects  
-- 🌱 Currently learning: MLOps & Advanced AI  
-- 💼 Open to: Internships & collaborations  
+- 🔭 Currently working on: AI & Machine Learning Projects  
+- 🌱 Currently learning: Deep Learning, NLP, RAG Systems & MLOps  
+- 💼 Interested in: AI Engineering, Data Science & Backend Development  
 - 📫 Email: rawan.m.badry224@gmail.com  
 
 ---
@@ -32,41 +32,84 @@ I’m a Computer Science student passionate about **Artificial Intelligence, Mac
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming  
-Python • C++ • Java • C# • JavaScript  
+Python • C++ • Java • C# • JavaScript • SQL  
 
-### 🤖 AI & Data  
-Pandas • NumPy • Scikit-learn  
+### 🤖 AI & Data Science  
+Python for Data Science • NumPy • Pandas • Matplotlib • Scikit-learn  
+Machine Learning • Deep Learning Basics • NLP • Computer Vision  
+Supervised Learning • Unsupervised Learning • Ensemble Learning  
+Clustering • Regression • Classification  
+
+### 📊 Data Analysis & Visualization  
+Power BI • Data Cleaning • Data Preprocessing • Exploratory Data Analysis (EDA)
+
+### 🧠 AI Tools & Concepts  
+RAG Systems • Vector Search • Prompt Engineering • OpenRouter API  
+Machine Learning Pipelines • Model Evaluation
+
+### 🌐 Backend & Web  
+ASP.NET MVC • Node.js • REST APIs • HTML • CSS • JavaScript
 
 ### 🧪 Testing  
-Selenium • Postman • API Testing  
+Selenium • Postman • API Testing • Manual Testing
 
-### 🌐 Web  
-HTML • CSS • ASP.NET MVC  
+### ☁️ Cloud & Tools  
+Microsoft Azure • Git • GitHub • Jupyter Notebook • VS Code
 
 ---
 
 ## 💼 Experience  
 
-### 🤖 AI Trainee – Microsoft ML Engineer Program (DEPI)  
-- Worked on ML, Deep Learning, NLP & Computer Vision  
-- Built models using Python & Azure  
+### 🤖 AI & Data Science Trainee – Microsoft ML Engineer Program (DEPI)
 
-### 🧪 Software Testing Intern – DEPI  
-- Manual & Automation Testing (Selenium, Postman)  
-- API Testing & defect tracking  
+- Studied Machine Learning, Deep Learning, Computer Vision, NLP, and Azure fundamentals.
+- Built machine learning models using Python and Scikit-learn.
+- Worked on AI projects including data preprocessing, model training, and evaluation.
+
+### 🧪 Software Testing Intern – DEPI
+
+- Performed Manual and Automation Testing using Selenium.
+- Tested APIs using Postman and documented defects.
 
 ---
 
 ## 💻 Projects  
 
+### 🎓 NexEd – AI-Powered University Management System
+
+Graduation Project that integrates AI solutions into university management.
+
+- Student performance prediction using Machine Learning models.
+- AI-based course recommendation system.
+- NLP-based features and intelligent learning assistance.
+- Backend services and database integration.
+
+### 🤖 AI Learning Assistant (RAG System)
+
+- Built a Retrieval-Augmented Generation system using course documents.
+- Used embeddings, vector search, and LLM APIs.
+- Developed an interactive interface using Streamlit.
+
 ### 🏥 Pharmacy Website  
-ASP.NET MVC system for managing pharmacy operations with full CRUD  
+
+ASP.NET MVC system for managing pharmacy operations with full CRUD operations.
 
 ### 🚗 Car Selling Website  
-Responsive frontend using HTML, CSS, JavaScript  
+
+Responsive frontend application using HTML, CSS, and JavaScript.
 
 ### 🎮 Backend Games  
-Connect 4 & Tic Tac Toe using C++  
+
+Connect 4 & Tic Tac Toe using C++.
+
+---
+
+## 📚 Currently Learning  
+
+- Deep Learning (TensorFlow / Keras / PyTorch)
+- Natural Language Processing
+- MLOps Fundamentals
+- Advanced Machine Learning Techniques
 
 ---
 
@@ -87,4 +130,5 @@ Connect 4 & Tic Tac Toe using C++
 ---
 
 ## 🔥 Fun Fact  
+
 💭 Always learning, always building 🚀
