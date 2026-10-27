@@ -3,21 +3,6 @@
 
 ---
 
-## Contact Me  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rawanmohamed24&color=blue" /><br/>
-  <img src="https://img.shields.io/github/followers/rawanmohamed24?style=social" /><br/>
-  <a href="https://linkedin.com/in/rawan-muhammad2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-  </a><br/>
-  <a href="mailto:rawan.m.badry224@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
-  </a>
-</p>
-
----
-
 ## About Me  
 
 I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
@@ -86,3 +71,16 @@ Connect 4 & Tic Tac Toe implemented using C++.
 **Technologies:** C++
 
 ---
+
+## Contact Me  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rawanmohamed24&color=blue" /><br/>
+  <img src="https://img.shields.io/github/followers/rawanmohamed24?style=social" /><br/>
+  <a href="https://linkedin.com/in/rawan-muhammad2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a><br/>
+  <a href="mailto:rawan.m.badry224@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
+  </a>
+</p>
