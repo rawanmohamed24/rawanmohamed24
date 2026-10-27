@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Rawan Mohamed</h1>
+<h1 align="center">Hi, I'm Rawan Mohamed</h1>
 <h3 align="center">AI & Data Science Enthusiast | Machine Learning Student | CS Student</h3>
 
 ---
 
-## 📫 Contact Me  
+## Contact Me  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rawanmohamed24&color=blue" /><br/>
@@ -18,48 +18,48 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## About Me  
 
-I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Science** 🤖  
+I’m a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
 
-- 🔭 Building AI and Machine Learning projects  
-- 🌱 Exploring Deep Learning, NLP, and RAG Systems  
-- 💡 Interested in AI Engineering, Data Science, and Backend Development  
+- Building AI and Machine Learning projects  
+- Exploring Deep Learning, NLP, and RAG Systems  
+- Interested in AI Engineering, Data Science, and Backend Development  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### 💻 Programming  
+### Programming  
 Python • C++ • Java • C# • JavaScript • SQL  
 
-### 🤖 AI & Data Science  
+### AI & Data Science  
 NumPy • Pandas • Matplotlib • Scikit-learn  
 Machine Learning • Deep Learning • NLP • Computer Vision  
 Regression • Classification • Clustering • Ensemble Learning  
 
-### 📊 Data Analysis  
+### Data Analysis  
 Power BI • Data Cleaning • Data Preprocessing • Exploratory Data Analysis (EDA)
 
-### 🧠 AI Concepts  
+### AI Concepts  
 RAG Systems • Large Language Models (LLMs) • Embeddings  
 Vector Search • Prompt Engineering • Model Evaluation  
 
-### 🌐 Web & Backend  
+### Web & Backend  
 ASP.NET MVC • Node.js • REST APIs  
 HTML • CSS • JavaScript  
 
-### 🧪 Testing  
+### Testing  
 Selenium • Postman • API Testing  
 
-### ☁️ Tools  
+### Tools  
 Azure • Git • GitHub • Jupyter Notebook • VS Code  
 
 ---
 
-## 💻 Projects  
+## Projects  
 
-### 🤖 AI Learning Assistant – RAG-based Question Answering System
+### AI Learning Assistant – RAG-based Question Answering System
 
 - Built a Retrieval-Augmented Generation system using course documents.
 - Implemented embeddings, vector search, and LLM API integration.
@@ -67,19 +67,19 @@ Azure • Git • GitHub • Jupyter Notebook • VS Code
 
 **Technologies:** Python, RAG, LLMs, OpenRouter API, Streamlit
 
-### 🏥 Pharmacy Website  
+### Pharmacy Website  
 
 ASP.NET MVC system for managing pharmacy operations with full CRUD operations.
 
 **Technologies:** C#, ASP.NET MVC, SQL Server
 
-### 🚗 Car Selling Website  
+### Car Selling Website  
 
 Responsive frontend application for browsing and managing car listings.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 🎮 Backend Games  
+### Backend Games  
 
 Connect 4 & Tic Tac Toe implemented using C++.
 
